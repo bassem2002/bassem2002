@@ -8,6 +8,23 @@ I am a Software Engineering student with experience in full-stack web and mobile
 
 I enjoy building complete applications, from backend architecture and APIs to modern frontend interfaces.
 
+## 👨‍💻 Professional Profile
+
+I approach software engineering with professionalism, rigor, and a strong sense of responsibility. I focus on understanding real business needs and turning them into reliable, maintainable, and well-structured software solutions.
+
+My work is guided by clean architecture, code quality, security, and attention to detail. I am comfortable contributing across the full development lifecycle—from requirements analysis and technical design to implementation, testing, documentation, and continuous improvement.
+
+### Engineering Strengths
+
+- Designing complete, scalable full-stack applications
+- Building secure and well-documented REST APIs
+- Applying SOLID principles, design patterns, and clean-code practices
+- Modeling and integrating relational and NoSQL databases
+- Integrating AI services into practical software products
+- Working seriously, independently, and collaboratively to deliver dependable results
+
+I value continuous learning, clear communication, and commitments fulfilled with care. My goal is not only to make software work, but to build solutions that are useful, robust, and ready to evolve.
+
 ## 🚀 Tech Stack
 
 ### Languages
