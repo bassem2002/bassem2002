@@ -8,7 +8,7 @@
   </p>
 
   <p><strong>Software Engineering &amp; Business Intelligence Student</strong></p>
-  <p>Software / Full-Stack Development · Business Intelligence · Applied AI</p>
+  <p>Software / Full-Stack Development · Business Intelligence · Artificial Intelligence</p>
 </div>
 
 ---
