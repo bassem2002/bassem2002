@@ -15,13 +15,21 @@
 
 ## About Me
 
-I am an engineering student specializing in **Software Engineering and Business Intelligence**, with project experience in full-stack web and mobile development, REST APIs, databases, software architecture, and  Artificial Intelligence integration.
+I am a Computer Engineering student specializing in **Software Engineering
+and Business Intelligence**, currently completing an academic exchange
+semester at **ESIGELEC in Rouen, France**.
 
-I enjoy building applications from backend workflows and APIs to frontend interfaces. My portfolio also includes **SSAS/MDX dashboards**, **TensorFlow/Keras image classification**, and **Flutter applications integrating Firebase and Google ML Kit**.
+My work focuses primarily on **software and full-stack development**, with
+projects spanning backend APIs, frontend and mobile applications, databases,
+authentication, and software architecture.
 
-- Engineering student at **IIT**
-- Exchange semester at **ESIGELEC, Rouen, France**
-- Looking for **internship opportunities in software development, full-stack development, Business Intelligence or  Artificial Intelligence**
+Alongside software engineering, I explore **Business Intelligence and
+Artificial Intelligence** through projects involving **SSAS/MDX and OLAP
+analytics, machine learning with Scikit-learn, deep learning with
+TensorFlow/Keras and PyTorch, computer vision, and NLP**.
+
+I am currently looking for an **internship in Software Development,
+Full-Stack Development, Business Intelligence, or Artificial Intelligence**.
 
 ## Engineering Focus
 
